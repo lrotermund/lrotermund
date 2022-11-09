@@ -2,7 +2,7 @@
 
 📫 How to reach me:
 - My blog: [lukasrotermund.de](https://lukasrotermund.de)
-- Mastodon: <a rel="me" href="https://social.dev-wiki.de/@lukasrotermund">@lukasrotermund@social.dev-wiki.de</a>
+- Mastodon: <a rel="nofollow me" href="https://social.dev-wiki.de/@lukasrotermund">social.dev-wiki.de/@lukasrotermund</a>
 - LinkedIn: [www.linkedin.com/in/lukas-rotermund](https://www.linkedin.com/in/lukas-rotermund/)
 
 <!--
