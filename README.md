@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+📫 How to reach me:
+- My blog: [lukasrotermund.de](https://lukasrotermund.de)
+- Mastodon: <a rel="me" href="https://social.dev-wiki.de/@lukasrotermund">@lukasrotermund@social.dev-wiki.de</a>
+- LinkedIn: [www.linkedin.com/in/lukas-rotermund](https://www.linkedin.com/in/lukas-rotermund/)
+
 <!--
 **lrotermund/lrotermund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
